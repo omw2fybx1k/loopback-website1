@@ -1,0 +1,3 @@
+document.getElementById("requestAccessBtn").addEventListener("click", function() {
+    window.location.href = "https://tally.so/r/YOURFORM"; // Replace with your real Tally form link
+});
